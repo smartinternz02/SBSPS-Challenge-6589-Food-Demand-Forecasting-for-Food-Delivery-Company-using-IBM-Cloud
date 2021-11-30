@@ -11,7 +11,7 @@ Following are the files with their description
 
 -> app1 : (flask) .py file integrating with the scoring end point
 
--> Code : file where the data preprocessing,visualizationa and model traing and testing is done locally
+-> Code : file where the data preprocessing,visualizationa and model traing and testing is done
 
 -> fdemand : file where the model is saved 
 
